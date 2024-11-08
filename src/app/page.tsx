@@ -28,9 +28,10 @@ export default function Home() {
             </button>
  
             </div>
-
          
+
            <div className="w-[30%] h-[100%] flex items-center justify-center bg-[url('/image/Logo.jpg')] bg-no-repeat bg-center bg-contain">
+           
            </div>
 
            </div>
