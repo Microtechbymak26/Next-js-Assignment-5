@@ -30,8 +30,8 @@ export default function Home() {
  
             </div>
 
-           <div className="w-[30%] h-[100%] flex items-center justify-center ">
-            <Image src={"/image/logo.jpg"} alt="image" width={442} height={611} className="rounded-tl-[150px] rounded-br-[150px] "/>
+         
+           <div className="w-[30%] h-[100%] flex items-center justify-center bg-[url('/image/Logo.jpg')] bg-no-repeat bg-center bg-contain">
            </div>
 
            </div>
