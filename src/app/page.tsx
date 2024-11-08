@@ -30,7 +30,7 @@ export default function Home() {
  
             </div>
 
-           <div className="w-[30%] h-[100%] flex items-center justify-center bg-[url('/images/pic.svg')] bg-no-repeat bg-center bg-contain">
+           <div className="w-[30%] h-[100%] flex items-center justify-center bg-[url('/image/logo.jpg')] bg-no-repeat bg-center bg-contain">
            </div>
 
            </div>
